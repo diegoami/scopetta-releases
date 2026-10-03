@@ -1,2 +1,6 @@
 # scopetta-releases
-Scopetta - Android releases (binaries for the private source repo)
+
+Android downloads for **Scopetta**, a two-player Scopa for the browser.
+
+- **Source code:** [Scopetta](https://github.com/diegoami/Scopetta)
+- **Play in the browser:** <https://scopetta.netlify.app>
